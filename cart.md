@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -32,7 +31,7 @@
       </div>
     </nav>
 	  <hr>
-	  <div align="center"><a href="#" class="btn btn-checkout">Check Out</a>
+	  <div align="center"><a href="payment.html" class="btn btn-checkout">Check Out</a>
 </div>
       <hr>
     <hr>
