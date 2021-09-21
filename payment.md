@@ -24,51 +24,21 @@
               <a class="nav-link" href="#">Cart</a>
             </li>
           </ul>
-          <form class="form-inline my-2 my-lg-0">
-            <input type="search" class="form-control mr-sm-2" placeholder="Search" maxlength="80%" aria-label="Search">
-            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+          <form class="form-inline">
+            <input class="form-control" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success" type="submit">Search</button>
           </form>
         </div>
       </div>
     </nav>
 	  <hr>
-	  <div align="center"><a href="#" class="btn btn-checkout">Check Out</a>
-</div>
+	  <div align="center">
+		  <a href="#" class="btn btn-checkout">Pay Now</a>
+	  </div>
+	  <div align="center">
+		  <h4>**** Payment Gateway ****</h4>
+	  </div>
       <hr>
-    <hr>
-    <div class="container">
-      <div class="row text-center">
-        <div class="col-md-4 pb-1 pb-md-0">
-          <div class="card">
-            <img class="card-img-top" src="images/400X200.gif" alt="Card image cap">
-            <div class="card-body">
-				<h5 class="card-title">Cart Item 1</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-primary">Remove From Cart</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 pb-1 pb-md-0">
-          <div class="card">
-            <img class="card-img-top" src="images/400X200.gif" alt="Card image cap">
-            <div class="card-body">
-				<h5 class="card-title">Cart Item 2</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-primary">Remove From Cart</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 pb-1 pb-md-0">
-          <div class="card">
-            <img class="card-img-top" src="images/400X200.gif" alt="Card image cap">
-            <div class="card-body">
-				<h5 class="card-title">Cart Item 3</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-primary">Remove From Cart</a>
-            </div>
-          </div>
-        </div>
-      </div>
       <div class="row text-center mt-4">
         <div class="col-md-4 pb-1 pb-md-0">
           </div>
