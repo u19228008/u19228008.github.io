@@ -18,10 +18,10 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="#">Home</a>
+              <a class="nav-link" href="index.html">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/cart.html">Cart</a>
+              <a class="nav-link" href="#">Cart</a>
             </li>
           </ul>
           <form class="form-inline my-2 my-lg-0">
@@ -52,9 +52,9 @@
           <div class="card">
             <img class="card-img-top" src="images/400X200.gif" alt="Card image cap">
             <div class="card-body">
-				<h5 class="card-title">Card title</h5>
+				<h5 class="card-title">Cart Item 1</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-primary">Add to Cart</a>
+              <a href="#" class="btn btn-primary">Remove From Cart</a>
             </div>
           </div>
         </div>
@@ -62,9 +62,9 @@
           <div class="card">
             <img class="card-img-top" src="images/400X200.gif" alt="Card image cap">
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
+				<h5 class="card-title">Cart Item 2</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-primary">Add to Cart</a>
+              <a href="#" class="btn btn-primary">Remove From Cart</a>
             </div>
           </div>
         </div>
@@ -72,9 +72,9 @@
           <div class="card">
             <img class="card-img-top" src="images/400X200.gif" alt="Card image cap">
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
+				<h5 class="card-title">Cart Item 3</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-primary">Add to Cart</a>
+              <a href="#" class="btn btn-primary">Remove From Cart</a>
             </div>
           </div>
         </div>
@@ -90,6 +90,7 @@
         <div class="col-6 col-md-8 col-lg-7">
           <div class="row text-center">
             <div class="col-sm-6 col-md-4 col-lg-4 col-12">
+				<span class="sitemap" >Sitemap:</span>
               <ul class="list-unstyled">
                 <li class="btn-link"> <a>Link anchor</a> </li>
                 <li class="btn-link"> <a>Link anchor</a> </li>
